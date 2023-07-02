@@ -1,3 +1,11 @@
+# Notes
+
+A simple Google Keep clone built with React has the functionality to add and delete your notes.
+
+https://jovial-mandazi-41f042.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
